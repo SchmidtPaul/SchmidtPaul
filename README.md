@@ -4,5 +4,3 @@ Here are the links to my GitHub pages:
  * 📊🌱 [DSFAIR](https://schmidtpaul.github.io/DSFAIR) - Data Science for Agriculture in R 
  * 📈🌱 [MMFAIR](https://schmidtpaul.github.io/MMFAIR) - Mixed Models for Agriculture in R 
  * 📉🌱 [CrashcouRse](https://schmidtpaul.github.io/crashcouRse) - R für Bio- und Agrarwissenschaftler 
-
-https://raw.githubusercontent.com/SchmidtPaul/DSFAIR/master/data/riceRCBD.csv
